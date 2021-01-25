@@ -2,9 +2,6 @@
 I'm a [Computer Science & Engineering](https://www.chalmers.se/sv/utbildning/program-pa-grundniva/sidor/datateknik.aspx) student at [Chalmers University of Technology](https://www.chalmers.se). Currently in my third year (of five), graduating from my Bachelor's in the spring of 2021 🎓
 
 #### Stuff I'm currently doing 💻
-
-- ❄ **[advent-2020](https://github.com/dcronqvist/advent-2020)**, repo for my solutions to [Advent of Code](https://adventofcode.com/), all written in Python 🐍
-- 🌱 **[co2tracker](https://github.com/dcronqvist/co2tracker)**, a [course](https://student.portal.chalmers.se/en/chalmersstudies/courseinformation/pages/searchcourse.aspx?course_id=28619&parsergrp=3) project done in collaboration with [@Ericsson](https://github.com/Ericsson). REST API for tracking CO2 emissions for supply chains
 - 🔑 **[danpass](https://github.com/dcronqvist/danpass)**, terminal based password manager. Utilizes [fernet encryption](https://cryptography.io/en/latest/fernet.html) for securely storing passwords
 - ☁ **[restberry-api](https://github.com/dcronqvist/restberry-api)**, my personal utility REST API. Mostly used for personal finance management
 
