@@ -2,8 +2,9 @@
 I'm a [Computer Science & Engineering](https://www.chalmers.se/sv/utbildning/program-pa-grundniva/sidor/datateknik.aspx) student at [Chalmers University of Technology](https://www.chalmers.se). Currently in my third year (of five), graduating from my Bachelor's in the spring of 2021 🎓
 
 #### Stuff I'm currently doing 💻
-- 🔑 **[danpass](https://github.com/dcronqvist/danpass)**, terminal based password manager. Utilizes [fernet encryption](https://cryptography.io/en/latest/fernet.html) for securely storing passwords
 - ☁ **[restberry-api](https://github.com/dcronqvist/restberry-api)**, my personal utility REST API. Mostly used for personal finance management
+- 🗳 **[pytechecker](https://github.com/dcronqvist/pytechecker)**, a lightweight python library for type checking objects against sample objects
+- 🔑 **[danpass](https://github.com/dcronqvist/danpass)**, terminal based password manager. Utilizes [fernet encryption](https://cryptography.io/en/latest/fernet.html) for securely storing passwords
 
 <!--
 **dcronqvist/dcronqvist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
