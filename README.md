@@ -3,6 +3,7 @@ I'm a [Computer Science & Engineering](https://www.chalmers.se/sv/utbildning/pro
 
 #### Stuff I'm currently doing 💻
 - ☁ **[restberry-api](https://github.com/dcronqvist/restberry-api)**, my personal utility REST API. Mostly used for personal finance management
+- 📌 **[danboard](https://github.com/dcronqvist/danboard)**, A dashboard for all things Daniel! Currently mostly for financial management
 - 🗳 **[pytechecker](https://github.com/dcronqvist/pytechecker)**, a lightweight python library for type checking objects against sample objects, [is on pypi](https://pypi.org/project/pytechecker/)
 - 🔑 **[danpass](https://github.com/dcronqvist/danpass)**, terminal based password manager. Utilizes [fernet encryption](https://cryptography.io/en/latest/fernet.html) for securely storing passwords
 
