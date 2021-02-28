@@ -1,7 +1,7 @@
 ### Hi, I'm Daniel! 👋
 I'm a [Computer Science & Engineering](https://www.chalmers.se/sv/utbildning/program-pa-grundniva/sidor/datateknik.aspx) student at [Chalmers University of Technology](https://www.chalmers.se). Currently in my third year (of five), graduating from my Bachelor's in the spring of 2021 🎓 You can check out my [personal website](https://dcronqvist.se) here!
 
-#### Stuff I'm currently doing 💻
+#### Stuff I'm currently working on 💻
 - ☁ **[restberry-api](https://github.com/dcronqvist/restberry-api)**, my personal utility REST API. Mostly used for personal finance management
 - 📌 **[danboard](https://github.com/dcronqvist/danboard)**, A dashboard for all things Daniel! Currently mostly for financial management
 - 🔑 **[danpass](https://github.com/dcronqvist/danpass)**, terminal based password manager. Utilizes [fernet encryption](https://cryptography.io/en/latest/fernet.html) for securely storing passwords
