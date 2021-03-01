@@ -4,7 +4,7 @@ I'm a [Computer Science & Engineering](https://www.chalmers.se/sv/utbildning/pro
 #### Stuff I'm currently working on 💻
 - ☁ **[restberry-api](https://github.com/dcronqvist/restberry-api)**, my personal utility REST API. Mostly used for personal finance management
 - 📌 **[danboard](https://github.com/dcronqvist/danboard)**, A dashboard for all things Daniel! Currently mostly for financial management
-- 🔑 **[danpass](https://github.com/dcronqvist/danpass)**, terminal based password manager. Utilizes [fernet encryption](https://cryptography.io/en/latest/fernet.html) for securely storing passwords
+<!--- 🔑 **[danpass](https://github.com/dcronqvist/danpass)**, terminal based password manager. Utilizes [fernet encryption](https://cryptography.io/en/latest/fernet.html) for securely storing passwords-->
 - 🔌 **[logix](https://github.com/dcronqvist/logix)**, a cross-platform logic gate and integrated circuit simulator, written in C# using Raylib
 
 <!--
