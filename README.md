@@ -7,6 +7,8 @@ I'm a [Computer Science & Engineering](https://www.chalmers.se/sv/utbildning/pro
 - ☁ **[restberry-api](https://github.com/dcronqvist/restberry-api)**, my personal utility REST API. Mostly used for personal finance management
 - 📌 **[danboard](https://github.com/dcronqvist/danboard)**, A dashboard for all things Daniel! Currently mostly for financial management
 
+#### Collection of repo templates 🎨
+- 🕹 **[raylib-imgui-cmake-template](https://github.com/dcronqvist/raylib-imgui-cmake-template)**, a template for getting started with [raylib](https://github.com/raysan5/raylib) and [imgui](https://github.com/ocornut/imgui) in a CMake environment
 <!--
 **dcronqvist/dcronqvist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
