@@ -10,6 +10,7 @@ I'm a [Computer Science & Engineering](https://www.chalmers.se/sv/utbildning/pro
 #### Collection of repo templates 🎨
 - 🕹 **[raylib-imgui-cmake-template](https://github.com/dcronqvist/raylib-imgui-cmake-template)**, a template for getting started with [raylib](https://github.com/raysan5/raylib) and [imgui](https://github.com/ocornut/imgui) in a CMake environment
 - 👾 **[opengl-imgui-cmake-template](https://github.com/dcronqvist/opengl-imgui-cmake-template)**, a template repo for getting started with [OpenGL](https://www.opengl.org/) together with [imgui](https://github.com/ocornut/imgui) in a CMake environment
+- ☕ **[lwjgl3-imgui-maven-template](https://github.com/dcronqvist/lwjgl3-imgui-maven-template)**, a template for getting started with [LWJGL3](https://www.lwjgl.org/) and [imgui](https://github.com/ocornut/imgui) in a maven environment.
 <!--
 **dcronqvist/dcronqvist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
