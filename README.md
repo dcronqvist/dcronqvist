@@ -1,5 +1,5 @@
 ### Hi, I'm Daniel! 👋
-I'm a [Computer Science & Engineering](https://www.chalmers.se/sv/utbildning/program-pa-grundniva/sidor/datateknik.aspx) student at [Chalmers University of Technology](https://www.chalmers.se). Currently in my third year (of five), graduating from my Bachelor's in the spring of 2021 🎓 You can check out my [personal website](https://dcronqvist.se) here!
+I'm a [Computer Science & Engineering](https://www.chalmers.se/sv/utbildning/program-pa-grundniva/sidor/datateknik.aspx) student at [Chalmers University of Technology](https://www.chalmers.se). Currently in my fourth year (of five), recently graduated from my Bachelor's in the spring of 2021, now doing my Master's in [Computer science – algorithms, languages and logic](https://www.chalmers.se/en/education/programmes/masters-info/pages/computer-science-algorithms-languages-and-logic.aspx) 🎓 You can check out my [personal website](https://dcronqvist.se) here!
 
 #### Stuff I'm currently working on 💻
 - 🦆 **[eco-sim](https://github.com/dcronqvist/eco-sim)**, a simulation of an ecosystem using neural networks and a genetic algorithm
