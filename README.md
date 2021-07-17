@@ -1,4 +1,5 @@
-### Hi, I'm Daniel! 👋
+### Hi, I'm Daniel! 👋 ![](https://hit.yhype.me/github/profile?user_id=41015131)
+
 I'm a [Computer Science & Engineering](https://www.chalmers.se/sv/utbildning/program-pa-grundniva/sidor/datateknik.aspx) student at [Chalmers University of Technology](https://www.chalmers.se). Currently in my fourth year (of five), recently graduated from my Bachelor's in the spring of 2021, now doing my Master's in [Computer science – algorithms, languages and logic](https://www.chalmers.se/en/education/programmes/masters-info/pages/computer-science-algorithms-languages-and-logic.aspx) 🎓 You can check out my [personal website](https://dcronqvist.se) here!
 
 #### Stuff I'm currently working on 💻
