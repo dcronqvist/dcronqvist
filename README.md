@@ -3,11 +3,11 @@
 I'm a [Computer Science & Engineering](https://www.chalmers.se/sv/utbildning/program-pa-grundniva/sidor/datateknik.aspx) student at [Chalmers University of Technology](https://www.chalmers.se). Currently in my fourth year (of five), recently graduated from my Bachelor's in the spring of 2021, now doing my Master's in [Computer science – algorithms, languages and logic](https://www.chalmers.se/en/education/programmes/masters-info/pages/computer-science-algorithms-languages-and-logic.aspx) 🎓 You can check out my [personal website here!](https://dcronqvist.se)
 
 #### Stuff I'm currently working on 💻
-- 🦆 **[eco-sim](https://github.com/dcronqvist/eco-sim)**, a simulation of an ecosystem using neural networks and a genetic algorithm
 - 🔌 **[logix](https://github.com/dcronqvist/logix)**, a cross-platform logic gate and integrated circuit simulator
 - ☁ **[restberry-api](https://github.com/dcronqvist/restberry-api)**, my personal utility REST API. Mostly used for personal finance management
 - 📌 **[danboard](https://github.com/dcronqvist/danboard)**, A dashboard for all things Daniel! Currently mostly for financial management
 - 🤖 **[bani](https://github.com/dcronqvist/bani)**, my own personal discord bot with useful things for dani
+- 💦 **[drip](https://github.com/dcronqvist/drip)**, learning how to create an interpreted programming language
 
 #### Collection of repo templates 🎨
 - 🕹 **[raylib-imgui-cmake-template](https://github.com/dcronqvist/raylib-imgui-cmake-template)**, a template for getting started with [raylib](https://github.com/raysan5/raylib) and [imgui](https://github.com/ocornut/imgui) in a CMake environment
