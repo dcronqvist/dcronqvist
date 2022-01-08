@@ -4,7 +4,7 @@ I'm a [Computer Science & Engineering](https://www.chalmers.se/sv/utbildning/pro
 
 #### Stuff I'm currently working on 💻
 - 🔌 **[logix](https://github.com/dcronqvist/logix)**, a cross-platform logic gate and integrated circuit simulator
-- ☁ **[restberry-api](https://github.com/dcronqvist/restberry-api)**, my personal utility REST API. Mostly used for personal finance management
+- 🍺 **[systembolaget-api](https://github.com/dcronqvist/systembolaget-api)**, an open REST API for easy retrieval of Systembolaget's products and stores
 - 📌 **[danboard](https://github.com/dcronqvist/danboard)**, A dashboard for all things Daniel! Currently mostly for financial management
 - 🤖 **[bani](https://github.com/dcronqvist/bani)**, my own personal discord bot with useful things for dani
 - 💦 **[drip](https://github.com/dcronqvist/drip)**, learning how to create an interpreted programming language
