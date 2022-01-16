@@ -5,9 +5,6 @@ I'm a [Computer Science & Engineering](https://www.chalmers.se/sv/utbildning/pro
 #### Stuff I'm currently working on 💻
 - 🔌 **[logix](https://github.com/dcronqvist/logix)**, a cross-platform logic gate and integrated circuit simulator
 - 🍺 **[systembolaget-api](https://github.com/dcronqvist/systembolaget-api)**, an open REST API for easy retrieval of Systembolaget's products and stores
-- 📌 **[danboard](https://github.com/dcronqvist/danboard)**, A dashboard for all things Daniel! Currently mostly for financial management
-- 🤖 **[bani](https://github.com/dcronqvist/bani)**, my own personal discord bot with useful things for dani
-- 💦 **[drip](https://github.com/dcronqvist/drip)**, learning how to create an interpreted programming language
 
 #### Collection of repo templates 🎨
 - 🕹 **[raylib-imgui-cmake-template](https://github.com/dcronqvist/raylib-imgui-cmake-template)**, a template for getting started with [raylib](https://github.com/raysan5/raylib) and [imgui](https://github.com/ocornut/imgui) in a CMake environment
