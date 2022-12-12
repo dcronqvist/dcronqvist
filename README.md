@@ -3,7 +3,7 @@
 I'm a [Computer Science & Engineering](https://www.chalmers.se/sv/utbildning/program-pa-grundniva/sidor/datateknik.aspx) student at [Chalmers University of Technology](https://www.chalmers.se). Currently in my fifth year, doing my final year of my Master's in [Computer science – algorithms, languages and logic](https://www.chalmers.se/en/education/programmes/masters-info/pages/computer-science-algorithms-languages-and-logic.aspx) 🎓 You can check out my [personal website here!](https://dcronqvist.se)
 
 #### Stuff I'm currently working on 💻
-- 🔌 **[logix](https://github.com/dcronqvist/logix)**, a cross-platform logic gate and circuit simulator
+- 🔌 **[logix](https://github.com/dcronqvist/logix)**, a cross-platform logic circuit designer & simulator
 
 #### Collection of repo templates 🎨
 - 🎨 **[raylib-imgui-dotnet-template](https://github.com/dcronqvist/raylib-imgui-dotnet-template)**, a template repo for getting started with [raylib](https://github.com/raysan5/raylib) and [imgui](https://github.com/ocornut/imgui) in a dotnet environment
