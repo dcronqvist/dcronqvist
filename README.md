@@ -4,6 +4,8 @@ I'm a [Computer Science & Engineering](https://www.chalmers.se/sv/utbildning/pro
 
 #### Stuff I'm currently working on 💻
 - ⚡ **[logix](https://github.com/dcronqvist/logix)**, a cross-platform logic circuit designer & simulator
+- 🕷️ **[Arachne](https://github.com/dcronqvist/Arachne)**, an authoritative server protocol for games using udp
+- some other secret stuff
 
 #### Collection of repo templates 🎨
 - 🎨 **[raylib-imgui-dotnet-template](https://github.com/dcronqvist/raylib-imgui-dotnet-template)**, a template repo for getting started with [raylib](https://github.com/raysan5/raylib) and [imgui](https://github.com/ocornut/imgui) in a dotnet environment
