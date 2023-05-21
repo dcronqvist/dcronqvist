@@ -3,6 +3,7 @@
 I'm a [Computer Science & Engineering](https://www.chalmers.se/sv/utbildning/program-pa-grundniva/sidor/datateknik.aspx) student at [Chalmers University of Technology](https://www.chalmers.se). Currently in my fifth year, doing my final year of my Master's in [Computer science – algorithms, languages and logic](https://www.chalmers.se/en/education/programmes/masters-info/pages/computer-science-algorithms-languages-and-logic.aspx) 🎓 You can check out my [personal website here!](https://dcronqvist.se)
 
 #### Stuff I'm currently working on 💻
+- ☕ **[DotGLFW](https://github.com/dcronqvist/DotGLFW)**, a fully managed cross-platform .NET wrapper for GLFW with provided binaries
 - ⚡ **[logix](https://github.com/dcronqvist/logix)**, a cross-platform logic circuit designer & simulator
 - 🕷️ **[Arachne](https://github.com/dcronqvist/Arachne)**, an authoritative server protocol for games using udp
 - some other secret stuff
