@@ -10,6 +10,7 @@ I'm a [Computer Science & Engineering](https://www.chalmers.se/sv/utbildning/pro
 - some other secret stuff
 
 #### Collection of repo templates 🎨
+- 🎮 **[game-starter](https://github.com/dcronqvist/game-starter)**, a template to bootstrap a game in .NET with [DotGLFW](https://github.com/dcronqvist/DotGLFW) and [DotGL](https://github.com/dcronqvist/DotGL)
 - 🎨 **[raylib-imgui-dotnet-template](https://github.com/dcronqvist/raylib-imgui-dotnet-template)**, a template repo for getting started with [raylib](https://github.com/raysan5/raylib) and [imgui](https://github.com/ocornut/imgui) in a dotnet environment
 - 🕹 **[raylib-imgui-cmake-template](https://github.com/dcronqvist/raylib-imgui-cmake-template)**, a template for getting started with [raylib](https://github.com/raysan5/raylib) and [imgui](https://github.com/ocornut/imgui) in a CMake environment
 - 🎨 **[opengl-imgui-dotnet-template](https://github.com/dcronqvist/opengl-imgui-dotnet-template)**, a template for getting started with [OpenGL](https://www.opengl.org/), [GLFW](https://www.glfw.org/) and [imgui](https://github.com/ocornut/imgui) in a dotnet environment
