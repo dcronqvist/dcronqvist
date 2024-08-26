@@ -3,8 +3,8 @@
 #### Stuff I'm currently working on 💻
 - 👾 **[DotGL](https://github.com/dcronqvist/DotGL)**, a low level OpenGL 4.6 binding for C#
 - ☕ **[DotGLFW](https://github.com/dcronqvist/DotGLFW)**, a fully managed cross-platform .NET wrapper for GLFW with provided binaries
+- 📚 **[DotTiled](https://github.com/dcronqvist/DotTiled)**, a .NET library for loading, saving, and handling Tiled maps and tilesets
 - ⚡ **[logix](https://github.com/dcronqvist/logix)**, a cross-platform logic circuit designer & simulator
-- 🕷️ **[Arachne](https://github.com/dcronqvist/Arachne)**, an authoritative server protocol for games using udp
 - some other secret stuff
 
 #### Collection of repo templates 🎨
