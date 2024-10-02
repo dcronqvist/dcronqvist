@@ -1,9 +1,10 @@
 ### Hi, I'm Daniel! 👋 
 
 #### Stuff I'm currently working on 💻
-- 👾 **[DotGL](https://github.com/dcronqvist/DotGL)**, a low level OpenGL 4.6 binding for C#
-- ☕ **[DotGLFW](https://github.com/dcronqvist/DotGLFW)**, a fully managed cross-platform .NET wrapper for GLFW with provided binaries
+- 🔎 **[InspecTree](https://github.com/dcronqvist/InspecTree)**, a .NET library for inspecting entire syntax trees of methods in C#
 - 📚 **[DotTiled](https://github.com/dcronqvist/DotTiled)**, a .NET library for loading, saving, and handling Tiled maps and tilesets
+- ☕ **[DotGLFW](https://github.com/dcronqvist/DotGLFW)**, a fully managed cross-platform .NET wrapper for GLFW with provided binaries
+- 👾 **[DotGL](https://github.com/dcronqvist/DotGL)**, a low level OpenGL 4.6 binding for C#
 - ⚡ **[logix](https://github.com/dcronqvist/logix)**, a cross-platform logic circuit designer & simulator
 - some other secret stuff
 
